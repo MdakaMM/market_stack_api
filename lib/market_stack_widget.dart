@@ -73,7 +73,7 @@ class _MarketStackWidgetState extends State<MarketStackWidget> {
                               borderSide:
                                   BorderSide(color: Colors.blue, width: 2),
                             ),
-                            labelText: 'Search Company By Name',
+                            labelText: 'Search Market Stack',
                             hintText: 'Enter Company\'s Name'),
                       ))),
             ]),
