@@ -16,7 +16,7 @@ A few resources to get you started if this is your first Flutter project:
     4. flutter pub get
     5. flutter run -d chrome
 
-- [Preview Project Online](https://docs.flutter.dev/get-started/codelab)
+- [Preview Project Online](https://marketstackapi.netlify.app/)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
