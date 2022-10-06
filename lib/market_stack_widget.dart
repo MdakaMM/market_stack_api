@@ -49,7 +49,7 @@ class _MarketStackWidgetState extends State<MarketStackWidget> {
               Expanded(
                   flex: 3,
                   child: Container(
-                    color: Colors.white,
+                    color: const Color(0xAAFAFAFA),
                     height: double.infinity - 10,
                     width: double.infinity,
                   )),
